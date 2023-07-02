@@ -1,69 +1,82 @@
-Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-DATE:
-AIM:
-To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
-image
+# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-REQUIREMENTS:
-● System - Windows 7 or higher, 1 GB RAM.
-PROCEDURE:
-Assembly of Polar 3D Printer
-1. Select 'Assembly of Polar 3D Printer' from the visible list.
-2. All the parts related to Polar 3D Printer will be shown on the screen.
-3. Select the parts in sequence in which they are shown.
-4. When the first part is selected then it will open in the blank space in the left side of the screen.
-5. Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
-6. If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
-Playing with Axes
-1. Move the r-axis slider and observe the movement of the r-axis assembly.
-2. Move the y-axis slider and observe the movement of the y-axis assembly.
-3. Move the z-axis slider and observe the movement of the z-axis assembly.
-OUTPUT:
-empd010
+### DATE: 
+## AIM:
+### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
-Y-AXIS BASE :
-The base of the printer that supports the rest of the components.
+![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/c784471e-098f-456d-9c1b-e9f0ce56cc9b)
 
-Z-AXIS FRAME :
-This is the frame that holds the print head and moves it up and down along the vertical axis.
+## REQUIREMENTS:
+### ●	System - Windows 7 or higher, 1 GB RAM.
 
-SMOOTH RODS :
-The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+## PROCEDURE:
 
-MOTORS :
-provide the power to move the Z-axis frame and the print head.
+## Assembly of Delta 3D Printer
+### 1.	Select 'Assembly of Delta 3D Printer' from the visible list.
+### 2.	All the parts related to Delta 3D Printer will be shown on the screen.
+### 3.	Select the parts in sequence in which they are shown.
+### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
+### 5.	Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+### 6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-EXTRUDER SUPPORTER :
-The support structure that holds the extruder assembly.
+## Playing with Axes
+### 1.	Move the z1-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z1-axis assembly.
+### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
+### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
-THREADED ROD :
-Threaded rod that provides the power to move the Z-axis frame up and down.
+## OUTPUT:
 
-Y-AXIS FRAME :
-The frame that moves the print head in the horizontal plane.
+![EMPD22](https://github.com/sanjaythiyagarajan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119409242/22b31fb6-149e-484f-a7b6-e218e4c2698c)
 
-MOTOR WITH GEAR :
-provides the power to move the Y-axis frame.
+#### BASE :
+The foundation of the printer, typically made of sturdy materials such as metal or plastic.
 
-MOTOR-WITH-PULLEY :
-provides the power to move the Z-axis frame.
+#### HOLDER :
+A part that holds the linear rails and/or motor in place 
 
-GEARS :
-Transfer power from the stepper motors to the threaded rod and the smooth rods.
+#### ROD :
+vertical rails that the printer's effector (the part that moves around to print) travels up and down.
 
-PLATE :
-plate where the printed object is created.
+####  TOP COVER :
+A cover that goes over the top of the printer to protect it from dust and debris.
+ 
+ #### TOP COVER FRAME :
+A frame that supports the top cover
 
-EXTRUDER :
-melts and extrudes the filament to create the printed object.
+#### LINEAR RAIL :
+ A type of guide rail that provides smooth, precise movement for the printer's effector.
+ 
+ #### MOTOR :
+A motor that provides the movement for the printer's effector, often using belts or pulleys to transfer the motion.
 
-FILAMENT :
-material that is used to create the printed object.
+#### BED :
+The platform on which the printer creates the printed object.
 
-EMPD002
+#### SLIDE WITH CONNECTOR :
+A connector that attaches the bed to the printer's frame.
 
-Output:
-Name: JAVITH M
-Register Number: 212222110014
-Result:
-Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+#### CONNECTING RODS :
+Rods that connect the printer's effector to the bed, allowing it to move up and down.
+
+#### EXTRUDER :
+The part of the printer that melts and deposits the filament used to create the printed object.
+
+#### PINS :
+Small pins used to secure various parts of the printer together.
+
+#### MOTOR WITH GEAR :
+A motor that has a gear attached to it, often used to drive the printer's linear rails.
+
+#### LCD :
+A display screen that allows the user to interact with the printer, typically used to select and control print settings.
+
+![EMPD33](https://github.com/sanjaythiyagarajan/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119409242/fa9e7fe0-cf26-484a-935c-f82ad15e922e)
+
+
+## Output:
+
+### Name: JAVITH M
+### Register Number: 212222110014
+
+## Result: 
+### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
